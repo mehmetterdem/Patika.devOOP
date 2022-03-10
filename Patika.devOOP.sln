@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationandProperty", "EncapsulationandProperty\EncapsulationandProperty.csproj", "{E4ABE026-74F8-48E5-977E-484208BB1265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static sınıf ve uyeler", "static sınıf ve uyeler\static sınıf ve uyeler.csproj", "{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E4ABE026-74F8-48E5-977E-484208BB1265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4ABE026-74F8-48E5-977E-484208BB1265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4ABE026-74F8-48E5-977E-484208BB1265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
