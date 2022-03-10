@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationandProperty", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static sınıf ve uyeler", "static sınıf ve uyeler\static sınıf ve uyeler.csproj", "{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{9836ED42-4A27-4C27-874C-DD19BE661244}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5752CB23-8D90-4FE1-B7A7-CD3556906EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9836ED42-4A27-4C27-874C-DD19BE661244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9836ED42-4A27-4C27-874C-DD19BE661244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9836ED42-4A27-4C27-874C-DD19BE661244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9836ED42-4A27-4C27-874C-DD19BE661244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
