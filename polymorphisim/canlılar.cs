@@ -23,6 +23,7 @@ namespace inheritance
         public virtual void uyaranlaraTepki()
         {
             Console.WriteLine("canlılar uyaranlara tepki verir.");
+
         }
     }
 }
